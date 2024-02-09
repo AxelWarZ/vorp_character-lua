@@ -1305,7 +1305,7 @@ function OpenAgeMenu(table, value)
             comp = Config.overlay_all_layers,
             min = 0,
             max = 10,
-            desc = MenuSpace .. Divider .. "<br><br>" .. T.MenuAge.element2.desc2
+            desc = MenuSpace .. Divider .. "<br><br>" .. T.MenuAge.element2.desc3
         },
     }
 
